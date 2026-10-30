@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class BTT3 
@@ -75,4 +77,8 @@ public class BTT3
             System.out.println("Phi van chuyen = " + sach.phiVanChuyen());
             System.out.println("Tong tien nhap = " + sach.tongTienNhap());
         }
+        public void kiemTraHopLe()
+        public void phanLoaiGia()
+        public void phanLoaiTonKho()
+        public void phanLoaiSach()
 }
